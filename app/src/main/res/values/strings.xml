@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Dyslexia</string>
+    <string name="name_app">GENDES</string>
+    <string name="desc_app">Aplikasi Pendeteksi Gejala Dyslexia</string>
+    <string name="menu_app_reading">Panduan Membaca</string>
+    <string name="menu_app_listening">Panduan Mendengarkan</string>
 </resources>
