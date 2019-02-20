@@ -4,4 +4,5 @@
     <string name="desc_app">Aplikasi Pendeteksi Gejala Dyslexia</string>
     <string name="menu_app_reading">Panduan Membaca</string>
     <string name="menu_app_listening">Panduan Mendengarkan</string>
+    <string name="readingTV">Reading</string>
 </resources>
